@@ -12,7 +12,7 @@
 - gcc
 - Bibliothèques standard
 
-## 🚀 Compilation && Execution
+## 📦 Compilation & 🚀 Exécution
 
 ```bash
 make [bonus]
